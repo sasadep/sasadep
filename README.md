@@ -7,4 +7,4 @@
 - 💡🌱 🔭 🧠 I enjoy doing Interdisciplinary Research. I'm a Hybrid Computing, Neuroscience, Physics, and Computer Architecture enthusiast.
 
 
-- 🔗  www.sandeepaswathnarayana.com  [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/sandeepaswathnarayana) [![gmail](https://img.shields.io/badge/gmail-white?style=flat&logo=gmail&labelColor=white)](sa5641.rit@gmail.com) [![Twitter Follow](https://img.shields.io/twitter/follow/im_5an?label=Follow&style=social)](https://twitter.com/im_5an)
+- 🔗  [![Website](https://img.shields.io/badge/website-white?style=flat&logo=leaf&labelColor=green)](https://www.sandeepaswathnarayana.com)   [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/sandeepaswathnarayana) [![gmail](https://img.shields.io/badge/gmail-white?style=flat&logo=gmail&labelColor=white)](mailto:sa5641.rit@gmail.com) [![Twitter Follow](https://img.shields.io/twitter/follow/im_5an?label=Follow&style=social)](https://twitter.com/im_5an)
