@@ -3,7 +3,7 @@
 <!--
 **sasadep/sasadep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 💻 I’m Sandeep Aswath Narayana, currently working on Deep Learning Performance R&D @Intel
+- 💻 I’m Sandeep Aswath Narayana, currently working on Deep Learning Performance R&D at [![Website](https://img.shields.io/badge/Intel_Corporation-white?style=round&logo=intel&labelColor=grey)](https://www.intel.com/)
 - 💡🌱 🔭 🧠 I enjoy doing Interdisciplinary Research. I'm a Hybrid Computing, Neuroscience, Physics, and Computer Architecture enthusiast.
 
 
